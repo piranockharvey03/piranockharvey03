@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m Harvey — a passionate IT student and aspiring software engineer with strong interests in cybersecurity, web development, and backend systems. I enjoy building real-world projects that solve practical problems, especially in agriculture and business operations.<br><br>I work with HTML, CSS, JavaScript, PHP, Java, and Python, and I’m continuously improving my skills as I develop more advanced systems. I love learning, experimenting, and turning ideas into functional tools that people can rely on.
+ I’m Harvey — a passionate IT student and aspiring software engineer with strong interests in backend systems. I work with HTML, CSS, JavaScript, PHP, Java, and I’m continuously improving my skills as I develop more advanced systems. 
 
 
 ## 🌐 Socials:
