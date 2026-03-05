@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m Harvey — a passionate IT student and aspiring software engineer with strong interests in backend systems. I work with HTML, CSS, JavaScript, PHP, and Java. 
+ I’m Harvey, a passionate IT student and aspiring software engineer with strong interests in backend systems. I work with HTML, CSS, JavaScript, PHP, and Java. 
 
 
 ## 🌐 Socials:
