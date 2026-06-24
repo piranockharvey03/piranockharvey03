@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m Harvey, a passionate IT student and aspiring software engineer with strong interests in backend systems. I work with PHP and have a fundamental understanding of JAVA. 
+I have interests in backend systems. I love working with PHP and have a fundamental understanding of JAVA. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piranockharvey03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piranockharvey03@gmail.com) 
